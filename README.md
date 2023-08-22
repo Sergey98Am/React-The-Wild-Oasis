@@ -12,7 +12,7 @@ git clone https://github.com/Sergey98Am/The-Wild-Oasis.git
 npm i
 ```
 
-### Setup .env.local file and write your supabase URL an KEY
+### Setup .env.local file and write your Supabase URL an KEY
 
 ```js
 VITE_SUPABASE_URL=
