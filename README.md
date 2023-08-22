@@ -1,4 +1,4 @@
-# The Wild Oasis - React, React Router, Context API, Styled Components, Supabase,
+# The Wild Oasis - React, React Router, React Query, Context API, Styled Components, Supabase,
 
 ### Cloning the repository
 
