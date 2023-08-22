@@ -23,7 +23,7 @@ VITE_SUPABASE_ANON_KEY=
 
 Add `database.sql` file, in Supabase SQL editor
 
-### Add User in Supabase Tables
+### Add User in Supabase
 
 ### Start the app
 
